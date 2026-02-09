@@ -33,14 +33,10 @@ The WinForms app tries to locate the Openness DLLs at runtime.
 
 You can set the environment variable `TIA_OPENNESS_V19` to point to your `PublicAPI\V19` folder.
 
-## Git quick start
+## Author
 
-```bash
-git init
-git add .
-git commit -m "Initial commit"
-# create repo on GitHub then:
-git remote add origin https://github.com/<user>/<repo>.git
-git branch -M main
-git push -u origin main
-```
+Developed by **Eido Automation**.
+
+## License
+
+This project is licensed under the **MIT License** — you are free to use, modify, and distribute it under the terms of the MIT license.

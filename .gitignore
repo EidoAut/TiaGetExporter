@@ -1,0 +1,28 @@
+# Visual Studio / VS
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build outputs
+bin/
+obj/
+[Bb]uild/
+[Dd]ist/
+[Pp]ublish/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.idea/
+.vscode/
+
+# NuGet (legacy)
+packages/
+*.nupkg

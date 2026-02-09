@@ -1,0 +1,12 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="TiaGitExporter.Core/TiaGitExporter.Core.csproj" Id="e11e8c0e-6674-4cc8-96e4-3a46fc5a5e5d">
+    <Platform Solution="*|x64" Project="x64" />
+  </Project>
+  <Project Path="TiaGitExporter/TiaGitExporter.WinForms.csproj" Id="27590726-d1c7-44c2-9488-ec70c2f743c9">
+    <Platform Solution="*|x64" Project="x64" />
+  </Project>
+</Solution>

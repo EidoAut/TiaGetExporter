@@ -1,0 +1,10 @@
+# Normalize line endings
+* text=auto
+
+# C# / Visual Studio
+*.cs     text diff=csharp
+*.csproj text
+*.sln    text
+*.slnx   text
+*.config text
+*.resx   text

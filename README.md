@@ -5,7 +5,7 @@
 
 **TIA Portal V19 · engineering source exchange**
 
-A WinForms tool for exporting and importing selected PLC engineering artifacts through Siemens TIA Portal Openness V19.
+<p align="justify">A WinForms tool for exporting and importing selected PLC engineering artifacts through Siemens TIA Portal Openness V19.</p>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-5bbc85.svg)](LICENSE)
 
@@ -42,7 +42,7 @@ Set **Copy Local = False** for each Siemens.* reference.
 
 ## Optional: AssemblyResolve
 
-The WinForms app tries to locate the Openness DLLs at runtime.
+<p align="justify">The WinForms app tries to locate the Openness DLLs at runtime.</p>
 
 You can set the environment variable `TIA_OPENNESS_V19` to point to your `PublicAPI\V19` folder.
 

@@ -1,4 +1,17 @@
-# TiaGitExporter
+<!-- EIDO repository presentation. Detailed technical documentation is preserved below. -->
+<p align="center"><img src="docs/assets/eido-project-banner.svg" alt="TIA Git Exporter — EIDO Automation" width="100%"></p>
+
+# TIA Git Exporter
+
+**TIA Portal V19 · engineering source exchange**
+
+A WinForms tool for exporting and importing selected PLC engineering artifacts through Siemens TIA Portal Openness V19.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-5bbc85.svg)](LICENSE) ![Technology: C# · Openness](https://img.shields.io/badge/Technology-C%23%20%C2%B7%20Openness-243b34)
+
+**Maintained by [EIDO Automation](https://github.com/EidoAut).** Available under the [MIT license](LICENSE). Consult the usage requirements, supported targets and limitations documented below.
+
+## Project documentation
 
 WinForms utility that uses **TIA Portal Openness V19** to export PLC "code" (UDTs, blocks, optional PLC tag tables) into a Git-friendly XML folder structure, and to import those XML artifacts back into an existing project.
 

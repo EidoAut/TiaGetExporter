@@ -1,6 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1100" height="180" viewBox="0 0 1100 180" role="img" aria-label="TIA Git Exporter — EIDO Automation">
   <rect width="1100" height="180" fill="#101816"/>
-  <text x="48" y="65" fill="#dce6e0" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="600" letter-spacing="3">EIDO</text>
-  <line x1="48" y1="84" x2="1052" y2="84" stroke="#416752" stroke-width="1"/>
-  <text x="48" y="138" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="38" font-weight="500">TIA Git Exporter</text>
+  <g fill="none" stroke="#71ad89" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><rect x="48" y="52" width="55" height="56" rx="4"/><path d="M75 63v31m-12-12 12 12 12-12M59 114h33"/></g>
+  <text x="148" y="65" fill="#dce6e0" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="600" letter-spacing="3">EIDO</text>
+  <line x1="148" y1="84" x2="1052" y2="84" stroke="#416752" stroke-width="1"/>
+  <text x="148" y="138" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="38" font-weight="500">TIA Git Exporter</text>
 </svg>

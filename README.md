@@ -7,7 +7,7 @@
 
 A WinForms tool for exporting and importing selected PLC engineering artifacts through Siemens TIA Portal Openness V19.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-5bbc85.svg)](LICENSE) ![Technology: C# · Openness](https://img.shields.io/badge/Technology-C%23%20%C2%B7%20Openness-243b34)
+[![License: MIT](https://img.shields.io/badge/License-MIT-5bbc85.svg)](LICENSE)
 
 **Maintained by [EIDO Automation](https://github.com/EidoAut).** Available under the [MIT license](LICENSE). Consult the usage requirements, supported targets and limitations documented below.
 
